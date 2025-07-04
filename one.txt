@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+  
+}
+</style>
+</head>
+<body>
+
+<h2>Chess Board</h2>
+
+
+<table style="width:90%">
+  <tr>
+    <tr>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  </tr>
+  <tr>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+  </tr>
+  <tr>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+  </tr>
+  <tr>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+    <td style="width:10%;height:70px;background-color:yellow"></td>
+    <td style="width:10%;height:70px;background-color:red"></td>
+  </tr>
+  <tr>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  </tr>
+  <tr>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  </tr>
+  <tr>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  </tr>
+  <tr>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  <td style="width:10%;height:70px;background-color:yellow"></td>
+  <td style="width:10%;height:70px;background-color:red"></td>
+  </tr>
+</table>
+
+</body>
+</html>
