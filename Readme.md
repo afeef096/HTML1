@@ -1,0 +1,1 @@
+This is a simple project of creating a Chess Board with html.
